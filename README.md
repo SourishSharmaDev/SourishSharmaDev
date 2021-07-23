@@ -14,13 +14,13 @@
 
 - 👨‍💻 All of my projects are available at [to be added](to be added)
 
-- 📝 I regularly write articles on [to be added](to be added)
+- 📝 I regularly write articles on *[WIP]*
 
 - 💬 Ask me about **Vue3**
 
 - 📫 How to reach me (Email / Discord) **sourishdevsharma@gmail.com / back#7684**
 
-- 📄 Know about my experiences [to be added](to be added)
+- 📄 Know about my experiences *[WIP]*
 
 - ⚡ Fun fact **I love to have a talk with other, hop to Discord and let's have a chat!!!**
 
