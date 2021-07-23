@@ -1,6 +1,6 @@
 Hi, I’m **@SourishSharmaDev, a 14 year old with big dreams...**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SourishSharmaDev&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SourishSharmaDev&theme=tokyonight&hide_border=true&show_icon=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 I’m interested in **Full stack Web Dvelopment and Game Dev**
@@ -9,7 +9,7 @@ I’m looking to collaborate on **Vue3 Projects**
 
 If any advice or invitations, please reach me out on **Email : sourishdevsharma@gmail.com , Discord : back#7684**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SourishSharmaDev&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SourishSharmaDev&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
