@@ -1,6 +1,6 @@
 Hi, I’m **@SourishSharmaDev, a 14 year old with big dreams...**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SourishSharmaDev&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SourishSharmaDev&bg_color=45,#556270,#FF6B6B)](https://github.com/anuraghazra/github-readme-stats)
 
 
 I’m interested in **Full stack Web Dvelopment and Game Dev**
