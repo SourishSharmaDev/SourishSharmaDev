@@ -26,6 +26,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sourishsharmadev&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="sourishsharmadev" />
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SourishSharmaDev&repo=BetterAnime" alt="sourishsharmadev" />
+
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.leetcode.com/sourishdevsharma" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sourishdevsharma" height="30" width="40" /></a>
