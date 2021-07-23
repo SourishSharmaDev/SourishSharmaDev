@@ -5,7 +5,7 @@ I’m looking to collaborate on **Vue3 Projects**
 
 If any advice or invitations, please reach me out on **Email : sourishdevsharma@gmail.com , Discord : back#7684**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SourishSharmaDev&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SourishSharmaDev&show_icons=true&theme=dracula))](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
